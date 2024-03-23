@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-23T05:20:32.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="b-mUPwTxU1GA0Fr9ucTB" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-23T05:23:54.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="-d7v7n0gxe-nWEX_7BnC" version="24.0.7" type="github" pages="5">
   <diagram name="Página-1" id="Gkafi19Obn4_rwlUSG2f">
     <mxGraphModel dx="1813" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="urEDLE50-Ugv_G7lnqZ4-64" value="Id.Escuela" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-62">
+        <mxCell id="urEDLE50-Ugv_G7lnqZ4-64" value="Nombre(155)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-62">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -295,7 +295,7 @@
             <mxRectangle width="30" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="urEDLE50-Ugv_G7lnqZ4-67" value="Id. Salón(14)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-65">
+        <mxCell id="urEDLE50-Ugv_G7lnqZ4-67" value="Apeido . Paterno(155)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-65">
           <mxGeometry x="30" width="150" height="35" as="geometry">
             <mxRectangle width="150" height="35" as="alternateBounds" />
           </mxGeometry>
@@ -308,7 +308,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="urEDLE50-Ugv_G7lnqZ4-70" value="Bancas (25)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-68">
+        <mxCell id="urEDLE50-Ugv_G7lnqZ4-70" value="Un" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="urEDLE50-Ugv_G7lnqZ4-68">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
