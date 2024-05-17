@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T05:45:08.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="10qkWOyJ8AeCCqoyglIG" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-17T05:46:25.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="I5ee48sl53waumYuAAru" version="24.3.1" type="github" pages="2">
   <diagram name="Página-1" id="GYeXx5uY_stQxxkntCBp">
     <mxGraphModel dx="986" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,10 +86,13 @@
         <mxCell id="XBw3YOEOe1Sj8PthTedz-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" width="500" height="500" as="geometry" />
         </mxCell>
+        <mxCell id="8YVHdDpYuQQ-TcWoL9Ho-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XBw3YOEOe1Sj8PthTedz-2" target="XBw3YOEOe1Sj8PthTedz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XBw3YOEOe1Sj8PthTedz-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XBw3YOEOe1Sj8PthTedz-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XBw3YOEOe1Sj8PthTedz-3" value="Prueba" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
